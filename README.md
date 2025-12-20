@@ -5,4 +5,4 @@ CS with a minor in statistics and mathematics undergrad at Sacramento State Univ
 
 
 - 🔭 I’m currently working on [brevi](https://github.com/sam0htngy/Brevi)
-- ⚙️ Using `.ts`, `.tsx`, `.go`, and `.py`
+- ⚙️ Using `.ts`, `.tsx`, and `.py` 
