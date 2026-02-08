@@ -1,6 +1,6 @@
 ## 🦆
 
-CS with a minor in statistics and mathematics undergrad at Sacramento State University
+CS with a minor in statistics undergrad at Sacramento State University
 
 
 
