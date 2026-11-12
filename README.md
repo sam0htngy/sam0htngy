@@ -1,4 +1,4 @@
-## Hello! I'm Thomas!🦆
+## Hello! I'm Thomas! 🦆
 
 Current CSUS undergrad majoring in CS with a minor in stats :D
 
