@@ -1,6 +1,6 @@
-## 🦆
+## Hello! I'm Thomas!🦆
 
-CS with a minor in statistics undergrad at Sacramento State University
+Current CSUS undergrad majoring in CS with a minor in stats :D
 
 
 
